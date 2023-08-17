@@ -9,5 +9,6 @@
 
 ## Annotations
 *list 1 - Cloud DNS - Traffic Steering using Geolocation Policy*
+
 *list 2 - Configuring Traffic Blocklisting with Google Cloud Armor*
 
