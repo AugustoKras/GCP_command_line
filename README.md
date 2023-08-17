@@ -1,7 +1,7 @@
 # GCP_command_line
-This is a GCP annotations from Augusto K
+*This is a GCP annotations from Augusto Krasz* :racing_car: :dash:
 
- [![My Skills](https://skillicons.dev/icons?i=gcp)](https://skillicons.dev) ## Introduction
+ ## Introduction[![My Skills](https://skillicons.dev/icons?i=gcp)](https://skillicons.dev) 
 
 *This repository aims to serve as a guide for future questions regarding GCP, I'm doing it based on the security engineer certification labs*
 
