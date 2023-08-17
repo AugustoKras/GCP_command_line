@@ -64,7 +64,7 @@ You will now use the DLP API to redact sensitive data from an image.
 
     Right-click on the image below and select Save image as. Save it locally on your computer as dlp-input.png.
 
-**DLP_image1.png 
+**DLP_image1.jpg
 
 In the bar above the terminal, click the button at the top right with three vertical dots and select Upload.
 
@@ -98,6 +98,6 @@ In the Cloud Shell code editor, on the left, click the dlp-redacted.png file.
 
 You will see the image with the domain name redacted.
 
-**DLP_image2.png
+**DLP_image2.jpg
 
 When calling the redact API, you specified EMAIL_ADDRESS as the infotype to redact. In the image, you should notice that the email address is no longer visible.
