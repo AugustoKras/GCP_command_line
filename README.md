@@ -8,6 +8,6 @@
 *The focus is on creating GCP resources using the command line*
 
 ## Annotations
-- *list 1 - Cloud DNS - Traffic Steering using Geolocation Policy *
-- *list 2 - Configuring Traffic Blocklisting with Google Cloud Armor *
-- *Diagrams - UML diagrams to exercises*
+*list 1 - Cloud DNS - Traffic Steering using Geolocation Policy*
+*list 2 - Configuring Traffic Blocklisting with Google Cloud Armor*
+
