@@ -12,3 +12,4 @@
 
 *list 2 - Configuring Traffic Blocklisting with Google Cloud Armor*
 
+*list 3 - Redacting Sensitive Data with the DLP API*
