@@ -13,3 +13,5 @@
 *list 2 - Configuring Traffic Blocklisting with Google Cloud Armor*
 
 *list 3 - Redacting Sensitive Data with the DLP API*
+
+*list 4 - Configuring and Viewing Cloud Audit Logs *
