@@ -17,3 +17,5 @@
 *list 4 - Configuring and Viewing Cloud Audit Logs*
 
 *list 5 - Configuring and Using Cloud Logging and Cloud Monitoring*
+
+*list 6 - Service Accounts and Roles: Fundamentals*
