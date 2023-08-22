@@ -19,3 +19,5 @@
 *list 5 - Configuring and Using Cloud Logging and Cloud Monitoring*
 
 *list 6 - Service Accounts and Roles: Fundamentals*
+
+*list 7 - Iam Custom Roles + Cloud Iam: Qwik Start*
