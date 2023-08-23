@@ -17,3 +17,7 @@ Lab Resolution Youtube [https://www.youtube.com/watch?v=VbubgXV0lZI]
 
 Lab Skillsboost [https://partner.cloudskillsboost.google/focuses/11637?parent=catalog]
 Lab Resolution Youtube [https://www.youtube.com/watch?v=9jev80md1qg]
+
+***Ensure Access & Identity in Google Cloud: Challenge Lab ##Awesome lab
+Lab Skillsboost [https://partner.cloudskillsboost.google/focuses/14671?parent=catalog]
+Lab Resolution Youtube [https://www.youtube.com/watch?v=RJrRDUb2Ppw]
