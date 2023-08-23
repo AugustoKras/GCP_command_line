@@ -21,3 +21,7 @@ Lab Resolution Youtube [https://www.youtube.com/watch?v=9jev80md1qg]
 ***Ensure Access & Identity in Google Cloud: Challenge Lab ##Awesome lab
 Lab Skillsboost [https://partner.cloudskillsboost.google/focuses/14671?parent=catalog]
 Lab Resolution Youtube [https://www.youtube.com/watch?v=RJrRDUb2Ppw]
+
+***Setting up a Private Kubernetes Cluster
+Lab Skillsboost [https://partner.cloudskillsboost.google/focuses/11641?parent=catalog]
+Lab Resolution Youtube [https://www.youtube.com/watch?v=N58n9XkDQHI]
