@@ -25,3 +25,8 @@ Lab Resolution Youtube [https://www.youtube.com/watch?v=RJrRDUb2Ppw]
 ***Setting up a Private Kubernetes Cluster
 Lab Skillsboost [https://partner.cloudskillsboost.google/focuses/11641?parent=catalog]
 Lab Resolution Youtube [https://www.youtube.com/watch?v=N58n9XkDQHI]
+
+
+***User Authentication: Identity-Aware Proxy
+Lab Skillsboost [https://partner.cloudskillsboost.google/focuses/11642?parent=catalog]
+Lab Resolution Youtube [https://www.youtube.com/watch?v=C1lXcnWrxzc]
