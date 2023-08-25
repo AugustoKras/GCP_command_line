@@ -21,3 +21,5 @@
 *list 6 - Service Accounts and Roles: Fundamentals*
 
 *list 7 - Iam Custom Roles + Cloud Iam: Qwik Start*
+
+*list 8 - Kubernetes labs (4 labs about K8S)*
