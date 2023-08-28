@@ -36,4 +36,18 @@ Store the encrypted data and the wrapped DEK.
 **C is the correct solution because KEK is never generated on the client's side, KEK is stored in GCP.
 -----------------------------------------------------------------------------------------------------
 
+Your company is storing sensitive data in Cloud Storage. You want a key generated on-premises to be used in the encryption process.
+What should you do?
 
+    A. Use the Cloud Key Management Service to manage a data encryption key (DEK).
+    B. Use the Cloud Key Management Service to manage a key encryption key (KEK).
+    C. Use customer-supplied encryption keys to manage the data encryption key (DEK).
+    D. Use customer-supplied encryption keys to manage the key encryption key (KEK). 
+
+ **The anwser is:C
+This is a Customer-supplied encryption keys (CSEK).
+We generate our own encryption key and manage it on-premises. 
+A KEK never leaves Cloud KMS.There is no KEK or KMS on-premises.
+
+Encryption at rest by default, with various key management options
+https://cloud.google.com/security/encryption-at-rest
