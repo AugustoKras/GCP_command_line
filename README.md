@@ -24,9 +24,9 @@
 
 *list 8 - Kubernetes labs (4 labs about K8S)*
 
-## GCP Security Engineer Important Questions :mortar_board:
+## GCP Security Engineer Important Questions :mortar_board: :trophy:
 
-*questlist1_KMS_encryption_questions - KMS and Encryption group of Questions*
+*questlist1_KMS_encryption_questions - KMS and Encryption group of Questions (2)*  	:guitar:
 
 *Questlist 2 -*
 
