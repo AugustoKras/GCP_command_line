@@ -26,4 +26,7 @@
 
 ## GCP Security Engineer Important Questions :mortar_board:
 
-*Questlist 1 - *
+*Questlist 1 -*
+*Questlist 2 -*
+*Questlist 3 -*
+*Questlist 4 -*
