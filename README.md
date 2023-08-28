@@ -7,7 +7,7 @@
 
 *The focus is on creating GCP resources using the command line*
 
-## Annotations
+## Annotations :roller_coaster:
 *list 1 - Cloud DNS - Traffic Steering using Geolocation Policy*
 
 *list 2 - Configuring Traffic Blocklisting with Google Cloud Armor*
@@ -23,3 +23,7 @@
 *list 7 - Iam Custom Roles + Cloud Iam: Qwik Start*
 
 *list 8 - Kubernetes labs (4 labs about K8S)*
+
+## GCP Security Engineer Important Questions :mortar_board:
+
+*Questlist 1 - *
